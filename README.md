@@ -1,4 +1,4 @@
-👋 Hi, I'm Maaz Ahmed!
+**👋 Hi, I'm Maaz Ahmed!**
 
 Software Developer | Full-Stack Mobile & Desktop Engineer 
 
