@@ -6,7 +6,7 @@ Software Developer | Full-Stack Mobile & Desktop Engineer
 I am a passionate and detail-oriented developer from Karachi, Pakistan , focused on building scalable mobile apps and enterprise desktop solutions. I enjoy bridging the gap between legacy systems and modern cloud infrastructure.
 
 
-🛠️ Core Tech Stack
+**🛠️ Core Tech Stack**
 
 • **Mobile**: Flutter & Dart 
 
@@ -19,7 +19,7 @@ I am a passionate and detail-oriented developer from Karachi, Pakistan , focused
 • **Tools**: Git, GitHub, Android Studio, Visual Studio 
 
 
-📁 Featured Projects
+**📁 Featured Projects**
 
 • **Attenova**: A dedicated employee tracking module featuring robust offline/online synchronization using Hive and Firebase.
 
@@ -28,7 +28,7 @@ I am a passionate and detail-oriented developer from Karachi, Pakistan , focused
 • **E-commerce Suite**: A full-featured grocery store app with a connected web-based admin panel for real-time data management.
 
 
-📈 Current Focus
+**📈 Current Focus**
 
 • 🎓 Pursuing a Computer Science degree to master Data Structures and Algorithms.
 
