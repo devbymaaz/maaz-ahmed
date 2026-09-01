@@ -21,7 +21,7 @@ I am a passionate and detail-oriented developer from Karachi, Pakistan , focused
 
 **📁 Featured Projects**
 
-• **Attenova**: A dedicated employee tracking module featuring robust offline/online synchronization using Hive and Firebase.
+• **Attendify**: A dedicated employee tracking module featuring robust offline/online synchronization using Hive and Firebase. Website: attendify.pk
 
 • **Point of Sale (POS) System**: A transaction-safe desktop application built with C# and SQL Server for inventory and sales management.
 
